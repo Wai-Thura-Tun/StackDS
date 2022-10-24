@@ -1,0 +1,3 @@
+/Users/waithuratun/Desktop/Data Structure/C++/StackDataStructure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/waithuratun/Desktop/Data Structure/C++/StackDataStructure/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/waithuratun/Desktop/Data Structure/C++/StackDataStructure/cmake-build-debug/CMakeFiles/C__.dir
